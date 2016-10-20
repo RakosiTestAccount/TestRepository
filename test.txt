@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-NO, it is mine !
-=======
 Ok its belongs to us
->>>>>>> refs/remotes/Rakosi/master

@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 DONE ANd its all mine
-=======
-DONE !
->>>>>>> origin/master

@@ -1,11 +1,1 @@
-<<<<<<< HEAD
 DONE
-=======
-Well that is a start!
-<<<<<<< HEAD
-EYAYA
-=======
-
-WTF is that ?
->>>>>>> refs/remotes/Rakosi/master
->>>>>>> origin/master
